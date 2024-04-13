@@ -1,3 +1,4 @@
+"""Página de Criação de Cursos."""
 import pandas as pd
 import streamlit as st
 
