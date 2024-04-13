@@ -13,8 +13,12 @@ isort = "^5.13.2"
 pydocstyle = "^6.3.0"
 mkdocs = "^1.5.3"
 taskipy = "^1.12.2"
+streamlit-authenticator = "^0.3.2"
 
 
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
+
+[tool.taskipy.tasks]
+format = "black . && isort ."
