@@ -110,9 +110,9 @@ streamlit run app.py
   </div>
 </div>
 
-<div>
-<a href="https://github.com/luhborba">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luhborba&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luhborba&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/luhborba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luhborba" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@luhborba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="luciano borba" height="30" width="40" /></a>
+</p>
 
