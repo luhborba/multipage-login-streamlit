@@ -25,3 +25,4 @@ build-backend = "poetry.core.masonry.api"
 [tool.taskipy.tasks]
 format = "black . && isort ."
 run = "streamlit run app.py"
+doc = "mkdocs serve"
